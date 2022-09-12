@@ -17,4 +17,4 @@ Remember, a good style guide is one that fits your needs and covers the majority
 Our intention is for you to use the style guide as a starting point, or as bits and pieces in your own guide.
 
 ## Interested in learning more?
-If you’d like further inspiration for creating your own code style guide, check out our upcoming blog post and e-book.
+If you’d like further inspiration for creating your own code style guide, check out our upcoming blog post and our new e-book, [Create a C# style guide: Write cleaner code that scales](https://resources.unity.com/games/create-code-style-guide-e-book).
