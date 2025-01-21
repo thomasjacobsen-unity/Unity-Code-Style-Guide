@@ -11,16 +11,19 @@ The guidelines we provide are recommendations, not hard and fast rules. Review e
 Your style guide should take precedence over our suggestions or the Microsoft Framework Design guidelines, if they are in conflict. This will allow your team to maintain a uniform style throughout your project.
 
 ## Who created this guide and how can I use it?
-We created the [guide](https://resources.unity.com/games/create-code-style-guide-e-book) based on best practices shared by internal and external Unity experts. A big thanks goes to [Unity Game Academy](https://github.com/UnityGameAcademy) for their significant contribution in bringing the guide together. 
-As a lead on the project behind our accompanying e-book, [Creating a C# style guide for clean and scalable game code](https://resources.unity.com/games/create-code-style-guide-e-book), I chose to make the guide available here on my Unity GitHub account. This guide is a product of our own subjective opinions, and as such, it is legally meant to serve as an example for inspiration only.
+We created the [guide](https://resources.unity.com/games/create-code-style-guide-e-book) based on best practices shared by internal and external Unity experts. A big thanks goes to Wilmer from [Unity Game Academy](https://github.com/UnityGameAcademy) for his significant contribution in bringing the guide together. 
+As style guide is highly opinionated, and as the lead on the project behind our accompanying e-book, [Creating a C# style guide for clean and scalable game code](https://resources.unity.com/games/create-code-style-guide-e-book), I chose to make the guide available here on my Unity GitHub account. This guide is a product of our own subjective opinions, and as such, it is legally meant to serve as an example for inspiration only.
 
-You can also find two webbased articles here:<br>
+You can also find two web-based articles here:<br>
 [Naming and code style tips](https://unity.com/how-to/naming-and-code-style-tips-c-scripting-unity)<br>
 [Formatting best practices](https://unity.com/how-to/formatting-best-practices-c-scripting-unity)
 
 Remember, a good style guide is one that fits your needs and covers the majority of the day-to-day use cases in your game development.
 Our intention is for you to use the style guide as a starting point, or as bits and pieces in your own guide.
-![Download our ebook](https://blog-api.unity.com/sites/default/files/styles/focal_crop_ratio_16_9/public/2022-09/C%23Guide-Blog%20Post_1620x900.jpg?imwidth=1920&itok=IWYleXeT)
+![Download our ebook](https://unity.com/_next/image?url=https%3A%2F%2Fcdn.bfldr.com%2FS5BC9Y64%2Fat%2Fbg6rs867pr66prkr78ksjs59%2FC_Guide-Social_Twitter_1200x675.jpg%3Fauto%3Dwebp&w=3840&q=75&dpl=dpl_5rNgCffrBH21hhkRkUyoeQhehptm)
+
+## What is new?
+Based on your feedback we made a few minor changes to our recommendations from the original version. Again, it doesn’t vary a lot from the general C# recommendations or our recommendation to prioritize readability over efficiency, etc. We also added a few more examples so it’s easier to translate the theory into actions in the e-book. 
 
 ## Interested in learning more?
-If you’d like further inspiration for creating your own code style guide, check out our upcoming blog post and our new e-book, [Create a C# style guide: Write cleaner code that scales](https://resources.unity.com/games/create-code-style-guide-e-book).
+If you’d like further inspiration for creating your own code style guide, check out our new e-book, [Create a C# style guide: Write cleaner code that scales](https://resources.unity.com/games/create-code-style-guide-e-book).
