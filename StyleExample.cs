@@ -206,7 +206,7 @@ namespace UnityCSharpStyleSheetExample
         static int s_sharedCount; 
 
         // Constants are prefixed with k_
-        const int k_maxCount 
+        const int k_maxCount = 100;
 
         // This groups data from the custom PlayerStats class in the Inspector.
         [Serializable] PlayerStats m_stats;
@@ -346,7 +346,6 @@ namespace UnityCSharpStyleSheetExample
 
             var powerUps = new List<PlayerStats>();
             var dict = new Dictionary<string, List<GameObject>>();
-
 
             // SWITCH STATEMENTS:
             // | It’s generally advisable to replace longer if-else chains with a switch statement for better readability.
